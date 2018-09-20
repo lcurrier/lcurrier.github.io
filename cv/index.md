@@ -4,7 +4,7 @@ title: Sylvia Klosin's CV
 ---
 <a href="#" class="download" title="Download CV as PDF">Download CV</a>     
 
-**Sylvia Klosin**
+##Sylvia Klosin
 
 ## Education 
 **The University of Chicago**     **Chicago, IL** *September 2013 -- June 2017*
