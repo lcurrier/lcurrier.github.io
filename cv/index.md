@@ -4,7 +4,7 @@ title: Sylvia Klosin's CV
 ---
 <a href="#" class="download" title="Download CV as PDF">Download CV</a>     
 
-##Sylvia Klosin
+## Sylvia Klosin
 
 ## Education 
 **The University of Chicago**     **Chicago, IL** *September 2013 -- June 2017*
@@ -19,13 +19,13 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 
 -   David S. Hu Award *May 2017*
 
-*Winner of the annual award given for excellence in economics course
+    *Winner of the annual award given for excellence in economics course
     work and a creative senior thesis*
 
 -   Becker Friedman Institute Award for Outstanding Undergraduate
     Service *May 2017*
     
- *One of two students given award for being a leader in creating and
+    *One of two students given award for being a leader in creating and
     sustaining a community of students interested in economics*
 
 -   First Place in Econometrics Game *May 2017*
@@ -42,7 +42,7 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 ## Research Experience 
 **Pre-Doctoral Research Fellow \| The Stanford Graduate School of Business**     **Stanford, CA**
 
-  *PI: Professor Susan Athey and Guido Imbens*     *July 2017 -- present*
+  *PI: Professor Susan Athey and Guido Imbens*,     *July 2017 -- present*
 
 -   Identified conditions under which competing estimators of variance
     perform well by implementing simulations and formulating heuristic and
@@ -59,7 +59,7 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 
   **Research Assistant \| The University of Chicago Booth School of Business**     **Chicago, IL**
 
-  *PI: Professor Steve Davis*     *December 2013 -- December 2017*
+  *PI: Professor Steve Davis*,     *December 2013 -- December 2017*
 
 -   Conducted panel regression analyses to study the companies' economic
     policy uncertainty using R
@@ -70,9 +70,8 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
     and create the monthly DHI labor market report, which includes the
     Vacancy Duration Measure
 
-
   **Summer Research Intern \| The Federal Reserve Bank of New York**     **New York, NY**
-  *PI: Dr. Rajashri Chakrabarti and Dr. Wilbert van der Klaauw*     *June 2016 -- August 2016*
+  *PI: Dr. Rajashri Chakrabarti and Dr. Wilbert van der Klaauw*,     *June 2016 -- August 2016*
 
 -   Was the primary research assistant for a project for the Real Side
     (Microeconomics Division) aimed at determining the effect of owning
@@ -88,7 +87,7 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 
   **Research Assistant \| The University of Chicago Booth School of Business**     **Chicago, IL**
  
-  *PI: Professors Marianne Bertrand and Emir Kamenica*     *June 2015 -- June 2016*
+  *PI: Professors Marianne Bertrand and Emir Kamenica*,     *June 2015 -- June 2016*
 
 -   Brainstormed with researchers to develop ideas and obtain critical data
     for a project on the cultural distance between groups in the US based on
@@ -102,7 +101,7 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 
   **White House Summer Research Intern \| The Council of Economic Advisers**     **Washington, D.C.**
 
-  *PI: Professor Abigail Wozniak and Professor Betsy Stevenson*     *June 2015 -- August 2015*
+  *PI: Professor Abigail Wozniak and Professor Betsy Stevenson*,     *June 2015 -- August 2015*
 
 -   Provided economic research assistance to senior economists on project
     that examined labor policies, including occupational licensing
@@ -115,7 +114,7 @@ economic reports for the staff
 
   **Research Assistant \| Becker Friedman Institute for Research In Economics**     **Chicago, IL**
 
-  *PI: Professor John List*     *February 2014 -- September 2014*
+  *PI: Professor John List*,     *February 2014 -- September 2014*
 
 -   Used R to summarize and display Alaskan survey data in visually
     intuitive maps and graphs
@@ -150,7 +149,7 @@ DCPS." With Mary Vansuch
 
   **Oeconomica** -- *University of Chicago Undergraduate Economics Research Society*     **Chicago, IL**
  
-  *President (2015 -- 2017), Vice President (2014 -- 2015)*     *September 2013 -- June 2017*
+  *President (2015 -- 2017), Vice President (2014 -- 2015)*,     *September 2013 -- June 2017*
 
 -   Directed club research activities by securing funding, organizing
     student presentations, and working with staff for club's six research
@@ -165,7 +164,7 @@ DCPS." With Mary Vansuch
 
   **Labor Economics Reading Group**     **Chicago, IL**
   
-  *Cohort Leader*     *September 2015 -- June 2017*
+  *Cohort Leader*,     *September 2015 -- June 2017*
 
 -   Helped group of 12 first and second year undergraduate students become
     familiar with the economic literature on labor topics such as the
