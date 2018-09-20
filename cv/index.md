@@ -6,13 +6,13 @@ title: Sylvia Klosin's CV
 
 **Sylvia Klosin**
 
-# Education 
+## Education 
 **The University of Chicago**     **Chicago, IL** *September 2013 -- June 2017*
 *Bachelor of Arts with Honors in Economics, June 2017*     
 *Bachelor of Arts in Statistics, June 2017*\
 Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Information in Online Job Advertisements," advised by Professor Steve Davis\
 
-# Honors and Awards 
+## Honors and Awards 
 
 -   David S. Hu Award *May 2017*
 *Winner of the annual award given for excellence in economics course
@@ -34,7 +34,7 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 
 -   University of Chicago Merit Scholarship *September 2013 - June 2017*
 
-# Research Experience 
+## Research Experience 
 **Pre-Doctoral Research Fellow \|The Stanford Graduate School of Business**     **Stanford, CA**
 
   *PI: Professor Susan Athey and Guido Imbens*     *July 2017 -- present*
@@ -123,7 +123,7 @@ Fund
 
 Supervised team of 10 and assisted with the running of field experiments
 
-# Publications
+## Publications
 
 **Published**
 
@@ -145,7 +145,7 @@ Frato and Winnie van Dyke
 -- "Does School Attendance Impact Graduation Rates: An Investigation of
 DCPS." With Mary Vansuch
 
-# Academic Leadership and Service
+## Academic Leadership and Service
 
   **Oeconomica** -- *University of Chicago Undergraduate Economics Research Society*     **Chicago, IL**
  
@@ -173,7 +173,7 @@ Taught undergraduate students with no previous coding experience how to
 use R and replicate economic papers, including Professors' Card and
 Kruger's paper on minimum wage
 
-# Skills
+## Skills
 
 R, Python, LaTeX
 
