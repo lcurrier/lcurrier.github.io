@@ -18,11 +18,13 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 ## Honors and Awards 
 
 -   David S. Hu Award *May 2017*
+
 *Winner of the annual award given for excellence in economics course
     work and a creative senior thesis*
 
 -   Becker Friedman Institute Award for Outstanding Undergraduate
     Service *May 2017*
+    
  *One of two students given award for being a leader in creating and
     sustaining a community of students interested in economics*
 
@@ -162,6 +164,7 @@ DCPS." With Mary Vansuch
     and new research
 
   **Labor Economics Reading Group**     **Chicago, IL**
+  
   *Cohort Leader*     *September 2015 -- June 2017*
 
 -   Helped group of 12 first and second year undergraduate students become
