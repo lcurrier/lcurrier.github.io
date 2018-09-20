@@ -35,7 +35,7 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 -   University of Chicago Merit Scholarship *September 2013 - June 2017*
 
 # Research Experience 
-**Pre-Doctoral Research Fellow\|The Stanford Graduate School of Business**     **Stanford, CA**
+**Pre-Doctoral Research Fellow \|The Stanford Graduate School of Business**     **Stanford, CA**
 
   *PI: Professor Susan Athey and Guido Imbens*     *July 2017 -- present*
 
@@ -54,7 +54,7 @@ Developed several statistical software packages.
 Completed advanced graduate coursework in econometrics and labor
 economics in the Stanford Economics Department and received 4.0/4.0 GPA
 
-  **Research Assistant\|The University of Chicago Booth School of Business**     **Chicago, IL**
+  **Research Assistant \|The University of Chicago Booth School of Business**     **Chicago, IL**
 
   *PI: Professor Steve Davis*     *December 2013 -- December 2017*
 
@@ -69,7 +69,7 @@ and create the monthly DHI labor market report, which includes the
 Vacancy Duration Measure
 
 
-  **Summer Research Intern\|The Federal Reserve Bank of New York**     **New York, NY**
+  **Summer Research Intern \|The Federal Reserve Bank of New York**     **New York, NY**
   *PI: Dr. Rajashri Chakrabarti and Dr. Wilbert van der Klaauw*     *June 2016 -- August 2016*
 
 Was the primary research assistant for a project for the Real Side
@@ -84,7 +84,7 @@ analyses would be most precise and insightful for a given project
 Produced charts using Stata to highlight important new trends in
 internal consumer credit data
 
-  **Research Assistant | The University of Chicago Booth School of Business**     **Chicago, IL**
+  **Research Assistant \| The University of Chicago Booth School of Business**     **Chicago, IL**
  
   *PI: Professors Marianne Bertrand and Emir Kamenica*     *June 2015 -- June 2016*
 
@@ -98,7 +98,7 @@ over time by demographics
 Created reports summarizing the data analysis and presenting
 comprehensive conclusions
 
-  **White House Summer Research Intern\| The Council of Economic Advisers**     **Washington, D.C.**
+  **White House Summer Research Intern \| The Council of Economic Advisers**     **Washington, D.C.**
 
   *PI: Professor Abigail Wozniak and Professor Betsy Stevenson*     *June 2015 -- August 2015*
 
@@ -111,7 +111,7 @@ government memos and reports
 Wrote morning economic news briefings for Chairman Jason Furman and
 economic reports for the staff
 
-  **Research Assistant, Becker Friedman Institute for Research In Economics**     **Chicago, IL**
+  **Research Assistant \| Becker Friedman Institute for Research In Economics**     **Chicago, IL**
 
   *PI: Professor John List*     *February 2014 -- September 2014*
 
