@@ -139,9 +139,6 @@ economic reports for the staff
 -- "To Post, Or Not To Post: An Investigation of Posted Wage Information
 in Online Job Advertisements."
 
--- "Does German Asylum Seeker Allocation Change Perception." With Chiara
-Frato and Winnie van Dyke
-
 -- "Does School Attendance Impact Graduation Rates: An Investigation of
 DCPS." With Mary Vansuch
 
