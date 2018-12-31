@@ -2,7 +2,7 @@
 layout: default
 title: Sylvia Klosin's CV 
 ---
-<a href="Klosin_CV_website.pdf" class="download" title="Download CV as PDF">Download CV</a>
+<a href="Klosin_CV_website.pdf" class="download" color= "blue" title="Download CV as PDF">Download CV</a>
 
 ## Sylvia Klosin
 
