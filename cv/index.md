@@ -25,7 +25,7 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 
 -   David S. Hu Award *May 2017*
 
-    *Winner of the annual award given for excellence in economics course
+    *Winner of the annual [`award`](https://economics.uchicago.edu/content/undergraduate-student-awards) given for excellence in economics course
     work and a creative senior thesis*
 
 -   Becker Friedman Institute Award for Outstanding Undergraduate
