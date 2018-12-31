@@ -13,7 +13,6 @@ title: Sylvia Klosin's CV
 
 Achieved perfect marks in advanced graduate coursework in econometrics with Guido Imbens, labor economics with Nick Bloom, and microeconomics with Takuo Sugaya
 
-## Education 
 **The University of Chicago**     **Chicago, IL** *September 2013 -- June 2017*
 
 *Bachelor of Arts with Honors in Economics, June 2017*    
