@@ -48,84 +48,59 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 
   *PI: Professor Susan Athey and Guido Imbens*,     *July 2017 -- present*
 
--   Identified conditions under which competing estimators of variance
-    perform well by implementing simulations and formulating heuristic and
-    rigorous explanations of observed output. Under direction of Guido
-    Imbens for paper "Design-based Analysis in Difference-In-Difference
-    Settings with Staggered Adoption"
+-   Developed new simulation code base in R to identify conditions under which competing estimators of variance perform well. Formulated heuristic and rigorous explanations of observed output for Professor Imbens's paper "Design-based Analysis in Difference-In-Differences Settings with Staggered Adoption"
 
--   Used R and Python to generate simulations to help Professor Susan Athey
-    in determining the most useful contextual bandit experiment design to
-    implement for a project dispensing birth control to women in Cameroon
-
--   Completed advanced graduate coursework in econometrics and labor
-    economics in the Stanford Economics Department and received 4.0/4.0 GPA
+-   Adapted contextual bandit algorithms to evaluate economic hypothesis on birth control adoption in Cameroon. Implemented algorithms in Python under the guidance of Professor Athey in partnership with the World Bank
 
   **Research Assistant \| The University of Chicago Booth School of Business**     **Chicago, IL**
 
   *PI: Professor Steve Davis*,     *December 2013 -- December 2017*
 
--   Conducted panel regression analyses to study the companies' economic
-    policy uncertainty using R
+-   Studied the impact of economic policy uncertainty on firms' employment and hiring decisions. Scraped reports from the U.S. Securities and Exchange Commission in Python to create a novel dataset with the first measures of firm-specific economic policy uncertainty
 
--   Created a panel database from all 2005-2014 Form 10-K reports using Python
-
--   Used Job Openings and Labor Turnover Survey (JOLTS) data to run analyses
-    and create the monthly DHI labor market report, which includes the
-    Vacancy Duration Measure
+-   Analyzed Job Openings and Labor Turnover Survey (JOLTS) data and created the time-sensitive monthly DHI labor market report, which includes the Vacancy Duration Measure
 
   **Summer Research Intern \| The Federal Reserve Bank of New York**     **New York, NY**
-  *PI: Dr. Rajashri Chakrabarti and Dr. Wilbert van der Klaauw*,     *June 2016 -- August 2016*
+  *PI: Drs. Rajashri Chakrabarti and Dr. Wilbert van der Klaauw*,     *June 2016 -- August 2016*
 
--   Was the primary research assistant for a project for the Real Side
-    (Microeconomics Division) aimed at determining the effect of owning
-    student debt on later life outcomes such as home and car ownership
-    entitled "Diplomas to Doorsteps: Education, Student Debt, and
-    Homeownership"
+-   Quantified the effect of owning student debt on subsequent life outcomes such as home and car ownership. Met weekly with senior economists on the Real Side (Microeconomics Division). Discussed multiple approaches including Bartik instrument
 
--   Collaborated with full time researchers to explore which types of
-    analyses would be most precise and insightful for a given project
-
--   Produced charts using Stata to highlight important new trends in
-    internal consumer credit data
+-   Identified new trends in student debt and college type (public, private, or for-profit) and developed expertise in using private consumer credit data 
 
   **Research Assistant \| The University of Chicago Booth School of Business**     **Chicago, IL**
  
   *PI: Professors Marianne Bertrand and Emir Kamenica*,     *June 2015 -- June 2016*
 
--   Brainstormed with researchers to develop ideas and obtain critical data
-    for a project on the cultural distance between groups in the US based on
-    income, education, gender, race, and political ideology
-
--   Conducted primary analyses in R of datasets to study time use trends
-    over time by demographics
-
--   Created reports summarizing the data analysis and presenting
-    comprehensive conclusions
+-  Developed a more holistic measure of inequality by quantifying cultural distance between groups in the US based on income, education, gender, and race
+-  Became an expert in using the American Time Use Surveys and created cohesive mapping of variables over time in order study inequality in time use historically, e.g. measure disparity in the number of hours worked by socioeconomic status since 1960
 
   **White House Summer Research Intern \| The Council of Economic Advisers**     **Washington, D.C.**
 
-  *PI: Professor Abigail Wozniak and Professor Betsy Stevenson*,     *June 2015 -- August 2015*
+  *PI: Professors Abigail Wozniak and Betsy Stevenson*,     *June 2015 -- August 2015*
 
--   Provided economic research assistance to senior economists on project
-    that examined labor policies, including occupational licensing
-
--   Used Stata, Haver, and Excel to fact check economic analyses in
-    government memos and reports
-
--   Wrote morning economic news briefings for Chairman Jason Furman and
-economic reports for the staff
+-   Distilled research from top economics journals into clear and compelling text for a published policy report that outlined how unnecessary occupational licenses are limiting worker mobility and reducing wages. Reported economists' proposed solutions
+-   Created morning economic news briefings for Chairman Jason Furman and economic reports for the staff   
 
   **Research Assistant \| Becker Friedman Institute for Research In Economics**     **Chicago, IL**
 
   *PI: Professor John List*,     *February 2014 -- September 2014*
 
--   Used R to summarize and display Alaskan survey data in visually
-    intuitive maps and graphs
+- Implemented data visualization techniques in R to communicate findings on charitable giving in a persuasive and understandable way
+		
+-  Supervised 10 research assistants conducting a field experiment on charitable giving and managed logistics 
 
--   Read literature and synthesized information about the Alaska Permanent Fund
+## Software
 
--   Supervised team of 10 and assisted with the running of field experiments
+**Author**
+
+- `stagadopt`: R package implementing methods for "Design-based Analysis in Difference-In-Differences Settings with Staggered Adoption"
+
+**Contributor**
+
+- `grf`: R package implementing methods for "Generalized Random Forests"
+- `bandits`: Python package implementing methods for "Estimation Considerations in Contextual Bandits"
+		
+
 
 ## Publications
 
@@ -152,28 +127,17 @@ DCPS." With Mary Vansuch
  
   *President (2015 -- 2017), Vice President (2014 -- 2015)*,     *September 2013 -- June 2017*
 
--   Directed club research activities by securing funding, organizing
-    student presentations, and working with staff for club's six research
-    cohorts. 60-70 active members.
+-  Directed club research activities by securing funding, organizing student presentations, and working with staff for club’s six research cohorts. Increased membership from 5 to 50-60 active members
 
--   Developed and led classes that taught econometrics and programing to
-    undergraduate students
-
--   Organized quarterly dinner lectures that brought together renowned
-    economic professors and undergraduate students to discuss experiences
-    and new research
+-  Started a series of ten student-led workshops per year focused on important skills like coding and econometrics and served as workshop lecturer
 
   **Labor Economics Reading Group**     **Chicago, IL**
   
   *Cohort Leader*,     *September 2015 -- June 2017*
 
--   Helped group of 12 first and second year undergraduate students become
-    familiar with the economic literature on labor topics such as the
-    minimum wage and the gender wage gap
-
--   Taught undergraduate students with no previous coding experience how to
-    use R and replicate economic papers, including Professors' Card and
-    Kruger's paper on minimum wage
+-  Taught a group of 12 first and second-year undergraduate students with no previous coding experience how to use R and replicate economic papers, including Professors Card and Kruger's paper on minimum wage  
+		
+-  Guided students through all stages of writing independent research papers on topics like minimum wage and the gender wage gap. Students published their final papers in undergraduate journals
 
 ## Skills
 
