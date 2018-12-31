@@ -38,6 +38,9 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 
     *Organized team of four to analyze the New York City transit
     market's response to unexpected transit delays. Defended results in*
+    [Contribution guidelines for this project](team-3-presentation.pdf)
+
+    
     __<a href="2019-year-williamsburg.pdf" class="download" color= "blue" title="paper">paper</a>__ *and oral* __<a href="team-3-presentation.pdf" class="download" color= "blue" title="presentation">presentation</a>__ *to panel of judges in a national
     interscholastic competition.*
 
