@@ -37,7 +37,7 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 -   First Place in Econometrics Game *May 2017*
 
     *Organized team of four to analyze the New York City transit market's response to unexpected transit delays. Defended
-    results in [`paper`](2019-year-williamsburg.pdf) and oral [`presentation`](team-3-presentation.pdf) to panel of judges in
+    results in __[`paper`](2019-year-williamsburg.pdf)__ and oral __[`presentation`](team-3-presentation.pdf)__ to panel of judges in
     a national interscholastic competition.*
 
 -   Dean's List *September 2013 - June 2017*
