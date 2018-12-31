@@ -38,7 +38,7 @@ Honors Thesis: "To Post, Or Not To Post: An Investigation of Posted Wage Informa
 
     *Organized team of four to analyze the New York City transit
     market's response to unexpected transit delays. Defended results in
-    paper and oral presentation to panel of judges in a national
+    <a href="__2019-year-williamsburg.pdf" class="download" color= "blue" title="paper">paper</a> and oral <a href="team-3-presentation.pdf" class="download" color= "blue" title="presentation">presentation</a> to panel of judges in a national
     interscholastic competition.*
 
 -   Dean's List *September 2013 - June 2017*
