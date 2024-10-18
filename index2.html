@@ -18,10 +18,10 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
     <script src="https://use.fontawesome.com/946aa46844.js"></script>
-    
+
 
     <!--- Icons
-    –––––––––––––––––––––––––––––––––––––––––––––––––– -->    
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
     <!-- CSS
@@ -85,7 +85,7 @@
                 </table>
                 <p>
                 <p>
-                    <button id="email" class="tooltip" title="Click to copy!"  nclick="copyEmail()">
+                    <button id="email" class="tooltip" title="Click to copy!" onclick="copyEmail()">
                         <span class="noupper copy-button" style="margin-right: 5%">sylviaklosin@gmail.com</span><i
                             class="fa-regular fa-copy" style="font-size: 14px"></i>
                     </button>
@@ -109,8 +109,6 @@
                 panel data contexts. I aim to create methods helpful for applied analysis in microeconomics,
                 particularly for agricultural and environmental economics.
             </p>
-
-
 
             <p>I'm on the 2024-2025 job market, and my department website can be found <a
                     href="https://economics.mit.edu/people/phd-students/sylvia-klosin">here</a>.
@@ -346,7 +344,8 @@
                 const originalWidth = button.offsetWidth; // Get the original width
 
                 button.style.width = originalWidth + 'px'; // Set the fixed width
-                button.innerHTML = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copied!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+                // sorry for the next line, I don't want to deal with it
+                button.innerHTML = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copied!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
 
                 // Revert button text back to original after 2 seconds
                 setTimeout(() => {
@@ -356,7 +355,10 @@
             }
         </script>
 
-        <!-- End Document
+    </div>
+
+
+    <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 </body>
 
