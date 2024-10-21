@@ -1,3 +1,0 @@
-## sylviaklosin
-
-My personal website
