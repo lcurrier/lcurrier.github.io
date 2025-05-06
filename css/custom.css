@@ -282,14 +282,23 @@ pre code {
     font-weight: 400;
     font-size: 13px;
   }
-/* ───────────────────────────────────────────────────────────────────────────
-   Paper‐entry tweaks: no gap between [pdf] and Abstract, keep gap after entry
-   ─────────────────────────────────────────────────────────────────────────── */
-   .paper-entry > p {
-    margin-bottom: 0;
-  }
-  
-  .paper-entry > details {
-    margin-top: 0;
-  }
-  
+/* ─────────────────────────────────────────────────────────────
+   Research‐Papers: unified spacing for entries
+   ───────────────────────────────────────────────────────────── */
+
+/* 1. Give each paper‐entry its own gap after everything inside it */
+.paper-entry {
+  margin-block-end: 1.5rem;
+}
+
+/* 2. Don’t let the paragraph add extra space underneath */
+.paper-entry > p {
+  margin-block-end: 0;
+}
+
+/* 3. Kill the details’ top + bottom margins so it hugs the [pdf]
+      and leaves the wrapper’s margin below for spacing */
+.paper-entry > details {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
