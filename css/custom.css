@@ -282,3 +282,14 @@ pre code {
     font-weight: 400;
     font-size: 13px;
   }
+/* ───────────────────────────────────────────────────────────────────────────
+   Paper‐entry tweaks: no gap between [pdf] and Abstract, keep gap after entry
+   ─────────────────────────────────────────────────────────────────────────── */
+   .paper-entry > p {
+    margin-bottom: 0;
+  }
+  
+  .paper-entry > details {
+    margin-top: 0;
+  }
+  
