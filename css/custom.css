@@ -302,3 +302,23 @@ pre code {
   margin-block-start: 0;
   margin-block-end: 0;
 }
+/* Remove top border and big gap before Published Papers */
+#published-papers.docs-section {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 0;
+}
+/* Tighten vertical gap between Working and Published sections */
+#research-papers.docs-section {
+  padding-bottom: 1.5rem;
+}
+
+/* Also override the larger desktop padding */
+@media (min-width: 550px) {
+  #research-papers.docs-section {
+    padding-bottom: 1.5rem;
+  }
+}
+.talks {
+  color: #777;
+}
